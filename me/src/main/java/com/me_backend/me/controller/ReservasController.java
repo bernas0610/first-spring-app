@@ -17,11 +17,7 @@ public class ReservasController {
     }
 
 
-        @GetMapping
-        public String testarGet(){
-            return "TESTE FOI SUCESSO";
-
-        }
+       
 
     }
 
