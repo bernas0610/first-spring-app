@@ -33,6 +33,8 @@ POST /reservas
 
 {
   "nome": "João",
+
+  
   "email": "joao@email.com"
 }
 
