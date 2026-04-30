@@ -28,11 +28,15 @@ Os dados são enviados para a API
 A API recebe esses dados e retorna uma mensagem de sucesso
 🔗 Endpoint
 POST /reservas
+
 📦 Exemplo de requisição
+
 {
   "nome": "João",
   "email": "joao@email.com"
 }
+
+
 ✅ Resposta
 Reserva recebida com sucesso!
 Nome: João
