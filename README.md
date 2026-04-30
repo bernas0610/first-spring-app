@@ -36,13 +36,19 @@ POST /reservas
 
   
   "email": "joao@email.com"
+  
 }
 
 
 ✅ Resposta
 Reserva recebida com sucesso!
+
+
 Nome: João
+
+
 🎯 Objetivo
+
 
 Esse projeto foi criado para:
 
